@@ -2,7 +2,6 @@
   border: 1px solid red;
 }
 
-
 p {
   color: green;
 }
@@ -20,7 +19,7 @@ h1 {
 }
 
 #article-title {
-  font-family: cursive;
+  font-family: Tahoma;
 }
 
 a[href*='florence'] {
@@ -65,5 +64,13 @@ h2.destination {
 
 .description h5 {
   color: blueviolet;
+}
+
+li h4 {
+  color: gold;
+}
+
+h4 {
+  color: dodgerblue;
 }
 
